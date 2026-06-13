@@ -1,0 +1,8 @@
+1. dot notation, bracket notation[]
+2. optional chain->  ?.
+
+
+Interview Rule of Thumb
+Use optional chaining when accessing data that may be null, undefined, or not yet loaded (API responses, nested objects, optional properties, callbacks). Avoid it when you're certain the value exists.
+
+//
