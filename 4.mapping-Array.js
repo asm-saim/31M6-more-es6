@@ -1,6 +1,6 @@
 // Mapping: Mapping means transforming each element of an array into a new value using the .map() method.
 //Map: We can use map to make the calculation shorter.
-//mapping normally array er upor hoi.
+//mapping array er upor hoi.
 
 const numbers = [23, 45, 67, 23, 5, 7, 90, 8];
 const double = [];
