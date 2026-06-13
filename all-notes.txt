@@ -1,5 +1,9 @@
 1. dot notation, bracket notation[]
 2. optional chain->  ?.
+3. map, forEach, filter, find
+
+*6 ways to loop through an array. for, for of, while, map(), do while. forEach()
+
 
 
 Interview Rule of Thumb
