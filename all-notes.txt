@@ -4,7 +4,10 @@
 
 *6 ways to loop through an array. for, for of, while, map(), do while. forEach()
 
-
+4.reduce()
+5. Class-Object.
+6.inheritance
+7.encapsulation
 
 Interview Rule of Thumb
 Use optional chaining when accessing data that may be null, undefined, or not yet loaded (API responses, nested objects, optional properties, callbacks). Avoid it when you're certain the value exists.
